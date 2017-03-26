@@ -1,0 +1,61 @@
+Initialize engine version: 5.5.1f1 (88d00a7498cd)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 5500 (ID=0x1616)
+    Vendor:   Intel
+    VRAM:     1196 MB
+    Driver:   10.18.14.4332
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\millia_r\Documents\I Wanna be a Toulousain\I Wanna be a Toulousain_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\millia_r\Documents\I Wanna be a Toulousain\I Wanna be a Toulousain_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\millia_r\Documents\I Wanna be a Toulousain\I Wanna be a Toulousain_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\millia_r\Documents\I Wanna be a Toulousain\I Wanna be a Toulousain_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\millia_r\Documents\I Wanna be a Toulousain\I Wanna be a Toulousain_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\millia_r\Documents\I Wanna be a Toulousain\I Wanna be a Toulousain_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\millia_r\Documents\I Wanna be a Toulousain\I Wanna be a Toulousain_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\millia_r\Documents\I Wanna be a Toulousain\I Wanna be a Toulousain_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\millia_r\Documents\I Wanna be a Toulousain\I Wanna be a Toulousain_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\millia_r\Documents\I Wanna be a Toulousain\I Wanna be a Toulousain_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\millia_r\Documents\I Wanna be a Toulousain\I Wanna be a Toulousain_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\millia_r\Documents\I Wanna be a Toulousain\I Wanna be a Toulousain_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.023 seconds
+Platform assembly: C:\Users\millia_r\Documents\I Wanna be a Toulousain\I Wanna be a Toulousain_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\millia_r\Documents\I Wanna be a Toulousain\I Wanna be a Toulousain_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 3840x1080 at -1920,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 3.440677 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 2370 -> priority: 1 
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 17.548798 ms
+
+Unloading 121 unused Assets to reduce memory usage. Loaded Objects now: 443.
+Total: 2.173911 ms (FindLiveObjects: 0.079345 ms CreateObjectMapping: 0.093161 ms MarkObjects: 0.402649 ms  DeleteObjects: 1.597570 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.317777 ms
+
+Unloading 125 unused Assets to reduce memory usage. Loaded Objects now: 427.
+Total: 0.909908 ms (FindLiveObjects: 0.069081 ms CreateObjectMapping: 0.091582 ms MarkObjects: 0.390806 ms  DeleteObjects: 0.356857 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.794157 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 427.
+Total: 0.516338 ms (FindLiveObjects: 0.049739 ms CreateObjectMapping: 0.057634 ms MarkObjects: 0.385674 ms  DeleteObjects: 0.021316 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.465809 ms
+
+Unloading 119 unused Assets to reduce memory usage. Loaded Objects now: 1356.
+Total: 0.724373 ms (FindLiveObjects: 0.058818 ms CreateObjectMapping: 0.028027 ms MarkObjects: 0.226194 ms  DeleteObjects: 0.410939 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.752796 ms
+
+Unloading 134 unused Assets to reduce memory usage. Loaded Objects now: 457.
+Total: 1.330716 ms (FindLiveObjects: 0.071055 ms CreateObjectMapping: 0.094346 ms MarkObjects: 0.532128 ms  DeleteObjects: 0.632001 ms)
+
