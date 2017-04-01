@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Esquirol.unity
+- path: Assets/Carmes.unity
   isLoaded: 1
   isActive: 1
