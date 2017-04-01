@@ -10,6 +10,7 @@ public class CoinsController : MonoBehaviour {
     public int valueCoin;
     private bool colEnter = false;
     private AudioSource source;
+    private int currentCoin = 0;
     // Use this for initialization
     void Start () {
         source = GetComponent<AudioSource>();
@@ -20,7 +21,7 @@ public class CoinsController : MonoBehaviour {
         if (colEnter == true)
             return;
         colEnter = true;
-        int currentCoin = Convert.ToInt32(coinValue.text) + valueCoin;
+        currentCoin = Convert.ToInt32(coinValue.text) + valueCoin;
         coinValue.text = currentCoin.ToString();
         source.Play();
         gameObject.GetComponent<Renderer>().enabled = false;
@@ -30,5 +31,10 @@ public class CoinsController : MonoBehaviour {
     // Update is called once per frame
     void Update () {
 		
+    }
+
+    public int getCoins()
+    {
+        return (currentCoin);
     }
 }

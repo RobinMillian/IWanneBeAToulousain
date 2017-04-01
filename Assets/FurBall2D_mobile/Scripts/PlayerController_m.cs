@@ -1,6 +1,8 @@
 ﻿using UnityEngine;
 using System.Collections;
+using UnityEngine.SceneManagement;
 using UnityStandardAssets.CrossPlatformInput;
+
 public class PlayerController_m : MonoBehaviour {
 	
 	public float maxSpeed = 6f;
@@ -34,8 +36,16 @@ public class PlayerController_m : MonoBehaviour {
 	}
 	
 	void Update () {
+        if (Input.GetButtonDown("Fire2"))
+        {
+            SceneManager.LoadScene(SceneManager.GetSceneAt(0).name);
+        }
+        if (CrossPlatformInputManager.GetButtonDown("Cancel"))
+        {
+            SceneManager.LoadScene("MainMenu", LoadSceneMode.Single);
+        }
 
-		if (CrossPlatformInputManager.GetButtonDown ("Jump") && (isGrounded || !doubleJump))
+        if (CrossPlatformInputManager.GetButtonDown ("Jump") && (isGrounded || !doubleJump))
 		{
 			rb2d.AddForce(new Vector2(0,jumpForce));
 
@@ -49,7 +59,7 @@ public class PlayerController_m : MonoBehaviour {
 
 
 
-		if (CrossPlatformInputManager.GetButtonDown("Boost") && !isGrounded)
+		if (CrossPlatformInputManager.GetButtonDown("Fire3") && !isGrounded)
 		{
 			rb2d.AddForce(new Vector2(0,-jumpForce));
 			Boost = Instantiate(Resources.Load("Prefabs/Cloud"), transform.position, transform.rotation) as GameObject;
