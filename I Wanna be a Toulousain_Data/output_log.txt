@@ -5,57 +5,123 @@ Direct3D:
     Renderer: Intel(R) HD Graphics 5500 (ID=0x1616)
     Vendor:   Intel
     VRAM:     1196 MB
-    Driver:   10.18.14.4332
+    Driver:   15.201.1301.0
 Begin MonoManager ReloadAssembly
-Platform assembly: C:\Users\millia_r\Documents\I Wanna be a Toulousain\I Wanna be a Toulousain_Data\Managed\UnityEngine.dll (this message is harmless)
-Loading C:\Users\millia_r\Documents\I Wanna be a Toulousain\I Wanna be a Toulousain_Data\Managed\UnityEngine.dll into Unity Child Domain
-Platform assembly: C:\Users\millia_r\Documents\I Wanna be a Toulousain\I Wanna be a Toulousain_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
-Loading C:\Users\millia_r\Documents\I Wanna be a Toulousain\I Wanna be a Toulousain_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
-Platform assembly: C:\Users\millia_r\Documents\I Wanna be a Toulousain\I Wanna be a Toulousain_Data\Managed\Assembly-CSharp.dll (this message is harmless)
-Loading C:\Users\millia_r\Documents\I Wanna be a Toulousain\I Wanna be a Toulousain_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
-Platform assembly: C:\Users\millia_r\Documents\I Wanna be a Toulousain\I Wanna be a Toulousain_Data\Managed\UnityEngine.UI.dll (this message is harmless)
-Loading C:\Users\millia_r\Documents\I Wanna be a Toulousain\I Wanna be a Toulousain_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
-Platform assembly: C:\Users\millia_r\Documents\I Wanna be a Toulousain\I Wanna be a Toulousain_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
-Loading C:\Users\millia_r\Documents\I Wanna be a Toulousain\I Wanna be a Toulousain_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
-Platform assembly: C:\Users\millia_r\Documents\I Wanna be a Toulousain\I Wanna be a Toulousain_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
-Loading C:\Users\millia_r\Documents\I Wanna be a Toulousain\I Wanna be a Toulousain_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
-- Completed reload, in  0.023 seconds
-Platform assembly: C:\Users\millia_r\Documents\I Wanna be a Toulousain\I Wanna be a Toulousain_Data\Managed\System.Core.dll (this message is harmless)
-Platform assembly: C:\Users\millia_r\Documents\I Wanna be a Toulousain\I Wanna be a Toulousain_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\millia_r\Documents\GitHub\IWanneBeAToulousain\I Wanna be a Toulousain_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\millia_r\Documents\GitHub\IWanneBeAToulousain\I Wanna be a Toulousain_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\millia_r\Documents\GitHub\IWanneBeAToulousain\I Wanna be a Toulousain_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\millia_r\Documents\GitHub\IWanneBeAToulousain\I Wanna be a Toulousain_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\millia_r\Documents\GitHub\IWanneBeAToulousain\I Wanna be a Toulousain_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\millia_r\Documents\GitHub\IWanneBeAToulousain\I Wanna be a Toulousain_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\millia_r\Documents\GitHub\IWanneBeAToulousain\I Wanna be a Toulousain_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\millia_r\Documents\GitHub\IWanneBeAToulousain\I Wanna be a Toulousain_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\millia_r\Documents\GitHub\IWanneBeAToulousain\I Wanna be a Toulousain_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\millia_r\Documents\GitHub\IWanneBeAToulousain\I Wanna be a Toulousain_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\millia_r\Documents\GitHub\IWanneBeAToulousain\I Wanna be a Toulousain_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\millia_r\Documents\GitHub\IWanneBeAToulousain\I Wanna be a Toulousain_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.036 seconds
+Platform assembly: C:\Users\millia_r\Documents\GitHub\IWanneBeAToulousain\I Wanna be a Toulousain_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\millia_r\Documents\GitHub\IWanneBeAToulousain\I Wanna be a Toulousain_Data\Managed\System.dll (this message is harmless)
 desktop: 1920x1080 60Hz; virtual: 3840x1080 at -1920,0
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 3.440677 ms
+UnloadTime: 4.019797 ms
 Setting up 1 worker threads for Enlighten.
-  Thread -> id: 2370 -> priority: 1 
+  Thread -> id: 19dc -> priority: 1 
+Unloading 8 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.449997 ms
+
+Unloading 121 unused Assets to reduce memory usage. Loaded Objects now: 4475.
+Total: 1.486255 ms (FindLiveObjects: 0.205667 ms CreateObjectMapping: 0.084477 ms MarkObjects: 0.620161 ms  DeleteObjects: 0.569632 ms)
+
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.340985 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 4505.
+Total: 0.797406 ms (FindLiveObjects: 0.215536 ms CreateObjectMapping: 0.082109 ms MarkObjects: 0.485944 ms  DeleteObjects: 0.013026 ms)
+
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.759821 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 4505.
+Total: 0.977415 ms (FindLiveObjects: 0.404229 ms CreateObjectMapping: 0.080530 ms MarkObjects: 0.478049 ms  DeleteObjects: 0.012237 ms)
+
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.337432 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 4505.
+Total: 0.792274 ms (FindLiveObjects: 0.213562 ms CreateObjectMapping: 0.086846 ms MarkObjects: 0.478443 ms  DeleteObjects: 0.012237 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.312957 ms
+
+Unloading 226 unused Assets to reduce memory usage. Loaded Objects now: 466.
+Total: 2.007727 ms (FindLiveObjects: 0.035133 ms CreateObjectMapping: 0.032764 ms MarkObjects: 0.214747 ms  DeleteObjects: 1.724293 ms)
+
+The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
+ 
+(Filename:  Line: 1754)
+
 Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 17.548798 ms
+UnloadTime: 0.429099 ms
 
-Unloading 121 unused Assets to reduce memory usage. Loaded Objects now: 443.
-Total: 2.173911 ms (FindLiveObjects: 0.079345 ms CreateObjectMapping: 0.093161 ms MarkObjects: 0.402649 ms  DeleteObjects: 1.597570 ms)
+Unloading 119 unused Assets to reduce memory usage. Loaded Objects now: 3300.
+Total: 1.023206 ms (FindLiveObjects: 0.141717 ms CreateObjectMapping: 0.043817 ms MarkObjects: 0.393176 ms  DeleteObjects: 0.444100 ms)
+
+The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.315720 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 3300.
+Total: 0.647399 ms (FindLiveObjects: 0.158297 ms CreateObjectMapping: 0.048160 ms MarkObjects: 0.429889 ms  DeleteObjects: 0.009868 ms)
+
+The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.074836 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 3300.
+Total: 1.240322 ms (FindLiveObjects: 0.236853 ms CreateObjectMapping: 0.071056 ms MarkObjects: 0.919780 ms  DeleteObjects: 0.011842 ms)
+
+The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.241506 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 3300.
+Total: 1.299141 ms (FindLiveObjects: 0.343042 ms CreateObjectMapping: 0.108557 ms MarkObjects: 0.824250 ms  DeleteObjects: 0.021711 ms)
+
+The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.202820 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 3300.
+Total: 0.661215 ms (FindLiveObjects: 0.162639 ms CreateObjectMapping: 0.048554 ms MarkObjects: 0.438968 ms  DeleteObjects: 0.010658 ms)
+
+The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.865448 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 3300.
+Total: 1.683238 ms (FindLiveObjects: 0.358043 ms CreateObjectMapping: 0.155928 ms MarkObjects: 1.136501 ms  DeleteObjects: 0.031975 ms)
 
 Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 0.317777 ms
+UnloadTime: 1.109658 ms
 
-Unloading 125 unused Assets to reduce memory usage. Loaded Objects now: 427.
-Total: 0.909908 ms (FindLiveObjects: 0.069081 ms CreateObjectMapping: 0.091582 ms MarkObjects: 0.390806 ms  DeleteObjects: 0.356857 ms)
-
-Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 1.794157 ms
-
-Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 427.
-Total: 0.516338 ms (FindLiveObjects: 0.049739 ms CreateObjectMapping: 0.057634 ms MarkObjects: 0.385674 ms  DeleteObjects: 0.021316 ms)
-
-Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 0.465809 ms
-
-Unloading 119 unused Assets to reduce memory usage. Loaded Objects now: 1356.
-Total: 0.724373 ms (FindLiveObjects: 0.058818 ms CreateObjectMapping: 0.028027 ms MarkObjects: 0.226194 ms  DeleteObjects: 0.410939 ms)
-
-Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 0.752796 ms
-
-Unloading 134 unused Assets to reduce memory usage. Loaded Objects now: 457.
-Total: 1.330716 ms (FindLiveObjects: 0.071055 ms CreateObjectMapping: 0.094346 ms MarkObjects: 0.532128 ms  DeleteObjects: 0.632001 ms)
+Unloading 208 unused Assets to reduce memory usage. Loaded Objects now: 466.
+Total: 4.387315 ms (FindLiveObjects: 0.064345 ms CreateObjectMapping: 0.114084 ms MarkObjects: 0.626477 ms  DeleteObjects: 3.580829 ms)
 
