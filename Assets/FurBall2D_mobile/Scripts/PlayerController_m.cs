@@ -19,6 +19,7 @@ public class PlayerController_m : MonoBehaviour {
 	private Rigidbody2D rb2d;
 	private Animator anim;
 	private bool isGrounded = false;
+    private bool can = true;
     private float speed_player = 0;
 
 	void Start () {
@@ -26,16 +27,29 @@ public class PlayerController_m : MonoBehaviour {
 		anim = GetComponent<Animator>();
 		Cloud = GameObject.Find("Cloud");
 	}
-	
 
-	void OnCollisionEnter2D(Collision2D collision2D) {
-		
+    private void OnTriggerEnter2D(Collider2D other)
+    {
+        if (other.tag == "KillZone")
+        {
+            can = false;
+            anim.SetBool("IsGrounded", false);
+        }
+    }
+
+
+    void OnCollisionEnter2D(Collision2D collision2D) { 
+
 		if (collision2D.relativeVelocity.magnitude > 20){
 			Boost = Instantiate(Resources.Load("Prefabs/Cloud"), transform.position, transform.rotation) as GameObject;
 		}
 	}
 	
 	void Update () {
+
+        if (!can)
+            return;
+
         if (Input.GetButtonDown("Fire2"))
         {
             SceneManager.LoadScene(SceneManager.GetSceneAt(0).name);
@@ -70,6 +84,8 @@ public class PlayerController_m : MonoBehaviour {
 
 	void FixedUpdate()
 	{
+        if (!can)
+            return;
 		if (isGrounded) 
 			doubleJump = false;
 

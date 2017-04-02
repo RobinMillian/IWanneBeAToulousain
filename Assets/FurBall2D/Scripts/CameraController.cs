@@ -16,6 +16,6 @@ public class CameraController : MonoBehaviour
         if (!camFollowUp)
             transform.Translate(target.position.x - transform.position.x, 0, 0);
         else
-            transform.Translate(target.position.x - transform.position.x, transform.position.y + padding - transform.position.y, 0);
+            transform.Translate(target.position.x - transform.position.x, target.position.y + padding - transform.position.y, 0);
 	}
 }

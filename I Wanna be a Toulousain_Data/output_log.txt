@@ -19,298 +19,383 @@ Platform assembly: C:\Users\millia_r\Documents\GitHub\IWanneBeAToulousain\I Wann
 Loading C:\Users\millia_r\Documents\GitHub\IWanneBeAToulousain\I Wanna be a Toulousain_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
 Platform assembly: C:\Users\millia_r\Documents\GitHub\IWanneBeAToulousain\I Wanna be a Toulousain_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
 Loading C:\Users\millia_r\Documents\GitHub\IWanneBeAToulousain\I Wanna be a Toulousain_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
-- Completed reload, in  0.026 seconds
+- Completed reload, in  0.038 seconds
 Platform assembly: C:\Users\millia_r\Documents\GitHub\IWanneBeAToulousain\I Wanna be a Toulousain_Data\Managed\System.Core.dll (this message is harmless)
 Platform assembly: C:\Users\millia_r\Documents\GitHub\IWanneBeAToulousain\I Wanna be a Toulousain_Data\Managed\System.dll (this message is harmless)
 desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
-desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
 <RI> Initialized touch support.
-UnloadTime: 93.933708 ms
+UnloadTime: 3.491219 ms
 Setting up 1 worker threads for Enlighten.
-  Thread -> id: 11a0 -> priority: 1 
+  Thread -> id: b60 -> priority: 1 
+Joystick connected ("Controller (Gamepad for Xbox 360)").
+ 
+(Filename:  Line: 1351)
+
 Unloading 8 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 84.929726 ms
+UnloadTime: 9.602038 ms
 
 Unloading 121 unused Assets to reduce memory usage. Loaded Objects now: 4475.
-Total: 18.604837 ms (FindLiveObjects: 0.178034 ms CreateObjectMapping: 0.095136 ms MarkObjects: 17.740717 ms  DeleteObjects: 0.588975 ms)
+Total: 1.752320 ms (FindLiveObjects: 0.262907 ms CreateObjectMapping: 0.132637 ms MarkObjects: 0.616213 ms  DeleteObjects: 0.738588 ms)
+
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.749390 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 4505.
+Total: 2.087468 ms (FindLiveObjects: 0.534894 ms CreateObjectMapping: 0.253038 ms MarkObjects: 1.260849 ms  DeleteObjects: 0.037107 ms)
+
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.237702 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 4505.
+Total: 2.209842 ms (FindLiveObjects: 0.572395 ms CreateObjectMapping: 0.281855 ms MarkObjects: 1.318484 ms  DeleteObjects: 0.035922 ms)
+
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.482056 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 4505.
+Total: 2.135628 ms (FindLiveObjects: 0.555816 ms CreateObjectMapping: 0.271591 ms MarkObjects: 1.267560 ms  DeleteObjects: 0.039475 ms)
+
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.187568 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 4505.
+Total: 2.158129 ms (FindLiveObjects: 0.540025 ms CreateObjectMapping: 0.273960 ms MarkObjects: 1.307036 ms  DeleteObjects: 0.035922 ms)
+
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.628678 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 4505.
+Total: 1.509151 ms (FindLiveObjects: 0.379360 ms CreateObjectMapping: 0.167771 ms MarkObjects: 0.936360 ms  DeleteObjects: 0.024474 ms)
+
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.501088 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 4505.
+Total: 1.919697 ms (FindLiveObjects: 0.483970 ms CreateObjectMapping: 0.221852 ms MarkObjects: 1.181503 ms  DeleteObjects: 0.031185 ms)
+
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.644385 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 4505.
+Total: 1.877853 ms (FindLiveObjects: 0.465811 ms CreateObjectMapping: 0.222247 ms MarkObjects: 1.155055 ms  DeleteObjects: 0.033554 ms)
+
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.994928 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 4505.
+Total: 3.487667 ms (FindLiveObjects: 1.146765 ms CreateObjectMapping: 0.348964 ms MarkObjects: 1.948119 ms  DeleteObjects: 0.042238 ms)
+
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.848079 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 4505.
+Total: 2.156155 ms (FindLiveObjects: 0.519498 ms CreateObjectMapping: 0.253827 ms MarkObjects: 1.341380 ms  DeleteObjects: 0.039870 ms)
+
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.301426 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 4505.
+Total: 0.899253 ms (FindLiveObjects: 0.244353 ms CreateObjectMapping: 0.090004 ms MarkObjects: 0.549500 ms  DeleteObjects: 0.014605 ms)
+
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.742990 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 4505.
+Total: 1.508756 ms (FindLiveObjects: 0.368701 ms CreateObjectMapping: 0.167376 ms MarkObjects: 0.947413 ms  DeleteObjects: 0.024080 ms)
+
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.564560 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 4505.
+Total: 2.263134 ms (FindLiveObjects: 0.541604 ms CreateObjectMapping: 0.252643 ms MarkObjects: 1.430989 ms  DeleteObjects: 0.036712 ms)
+
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.391657 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 4505.
+Total: 2.246160 ms (FindLiveObjects: 0.609897 ms CreateObjectMapping: 0.267644 ms MarkObjects: 1.331116 ms  DeleteObjects: 0.035922 ms)
+
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.477092 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 4505.
+Total: 1.548232 ms (FindLiveObjects: 0.375017 ms CreateObjectMapping: 0.183166 ms MarkObjects: 0.964783 ms  DeleteObjects: 0.024474 ms)
+
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.364586 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 4505.
+Total: 1.079656 ms (FindLiveObjects: 0.297251 ms CreateObjectMapping: 0.096320 ms MarkObjects: 0.673453 ms  DeleteObjects: 0.012237 ms)
+
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.356919 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 4505.
+Total: 2.248133 ms (FindLiveObjects: 0.534894 ms CreateObjectMapping: 0.257380 ms MarkObjects: 1.418752 ms  DeleteObjects: 0.035922 ms)
+
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.407053 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 4505.
+Total: 2.241423 ms (FindLiveObjects: 0.544762 ms CreateObjectMapping: 0.252248 ms MarkObjects: 1.406514 ms  DeleteObjects: 0.036712 ms)
+
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.045062 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 4505.
+Total: 2.241817 ms (FindLiveObjects: 0.538052 ms CreateObjectMapping: 0.253038 ms MarkObjects: 1.413620 ms  DeleteObjects: 0.035528 ms)
+
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.985848 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 4505.
+Total: 2.179446 ms (FindLiveObjects: 0.517524 ms CreateObjectMapping: 0.249485 ms MarkObjects: 1.374934 ms  DeleteObjects: 0.035528 ms)
 
 Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 1.220190 ms
+UnloadTime: 1.401777 ms
 
 Unloading 226 unused Assets to reduce memory usage. Loaded Objects now: 466.
-Total: 1.469675 ms (FindLiveObjects: 0.034343 ms CreateObjectMapping: 0.031975 ms MarkObjects: 0.201325 ms  DeleteObjects: 1.201636 ms)
+Total: 5.013003 ms (FindLiveObjects: 0.080530 ms CreateObjectMapping: 0.105005 ms MarkObjects: 0.654110 ms  DeleteObjects: 4.172173 ms)
+
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.761878 ms
+
+Unloading 119 unused Assets to reduce memory usage. Loaded Objects now: 4505.
+Total: 1.768505 ms (FindLiveObjects: 0.277513 ms CreateObjectMapping: 0.132637 ms MarkObjects: 0.707402 ms  DeleteObjects: 0.650162 ms)
+
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.160641 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 4505.
+Total: 2.238659 ms (FindLiveObjects: 0.527788 ms CreateObjectMapping: 0.250669 ms MarkObjects: 1.419146 ms  DeleteObjects: 0.038291 ms)
+
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 6.042526 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 4505.
+Total: 2.301426 ms (FindLiveObjects: 0.535288 ms CreateObjectMapping: 0.263302 ms MarkObjects: 1.463754 ms  DeleteObjects: 0.038291 ms)
+
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.874216 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 4505.
+Total: 1.777979 ms (FindLiveObjects: 0.365149 ms CreateObjectMapping: 0.167771 ms MarkObjects: 1.213873 ms  DeleteObjects: 0.030001 ms)
+
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.633248 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 4505.
+Total: 2.287609 ms (FindLiveObjects: 0.541210 ms CreateObjectMapping: 0.262907 ms MarkObjects: 1.446385 ms  DeleteObjects: 0.035922 ms)
+
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.450248 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 4505.
+Total: 2.327874 ms (FindLiveObjects: 0.532525 ms CreateObjectMapping: 0.262512 ms MarkObjects: 1.494545 ms  DeleteObjects: 0.037501 ms)
+
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.719388 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 4505.
+Total: 1.414804 ms (FindLiveObjects: 0.336726 ms CreateObjectMapping: 0.144085 ms MarkObjects: 0.912280 ms  DeleteObjects: 0.020922 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.289667 ms
+
+Unloading 226 unused Assets to reduce memory usage. Loaded Objects now: 466.
+Total: 1.651263 ms (FindLiveObjects: 0.027238 ms CreateObjectMapping: 0.033554 ms MarkObjects: 0.250669 ms  DeleteObjects: 1.339406 ms)
 
 The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
  
 (Filename:  Line: 1754)
 
 Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 1.595997 ms
+UnloadTime: 0.890568 ms
 
 Unloading 119 unused Assets to reduce memory usage. Loaded Objects now: 3300.
-Total: 1.956804 ms (FindLiveObjects: 0.228958 ms CreateObjectMapping: 0.107373 ms MarkObjects: 0.682927 ms  DeleteObjects: 0.936755 ms)
+Total: 1.512309 ms (FindLiveObjects: 0.182771 ms CreateObjectMapping: 0.064345 ms MarkObjects: 0.542789 ms  DeleteObjects: 0.722008 ms)
 
 The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
  
 (Filename:  Line: 1754)
 
 Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 3.189231 ms
+UnloadTime: 4.290994 ms
 
 Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 3300.
-Total: 1.697054 ms (FindLiveObjects: 0.389623 ms CreateObjectMapping: 0.153165 ms MarkObjects: 1.121501 ms  DeleteObjects: 0.031580 ms)
+Total: 1.888511 ms (FindLiveObjects: 0.399098 ms CreateObjectMapping: 0.150796 ms MarkObjects: 1.302299 ms  DeleteObjects: 0.035133 ms)
 
 The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
  
 (Filename:  Line: 1754)
 
 Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 2.007727 ms
+UnloadTime: 3.686623 ms
 
 Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 3300.
-Total: 1.391119 ms (FindLiveObjects: 0.231326 ms CreateObjectMapping: 0.097109 ms MarkObjects: 1.048471 ms  DeleteObjects: 0.013026 ms)
+Total: 1.879432 ms (FindLiveObjects: 0.392781 ms CreateObjectMapping: 0.151191 ms MarkObjects: 1.303483 ms  DeleteObjects: 0.030790 ms)
 
 The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
  
 (Filename:  Line: 1754)
 
 Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 2.313663 ms
+UnloadTime: 3.769127 ms
 
 Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 3300.
-Total: 1.188609 ms (FindLiveObjects: 0.275539 ms CreateObjectMapping: 0.102241 ms MarkObjects: 0.788327 ms  DeleteObjects: 0.021316 ms)
+Total: 1.914170 ms (FindLiveObjects: 0.397519 ms CreateObjectMapping: 0.151191 ms MarkObjects: 1.332695 ms  DeleteObjects: 0.031975 ms)
 
 The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
  
 (Filename:  Line: 1754)
 
 Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 4.731937 ms
+UnloadTime: 3.557144 ms
 
 Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 3300.
-Total: 1.693502 ms (FindLiveObjects: 0.388044 ms CreateObjectMapping: 0.153559 ms MarkObjects: 1.119922 ms  DeleteObjects: 0.030790 ms)
+Total: 1.909828 ms (FindLiveObjects: 0.402256 ms CreateObjectMapping: 0.154349 ms MarkObjects: 1.320852 ms  DeleteObjects: 0.031185 ms)
 
 The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
  
 (Filename:  Line: 1754)
 
 Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 3.371214 ms
+UnloadTime: 3.847289 ms
 
 Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 3300.
-Total: 1.683633 ms (FindLiveObjects: 0.383702 ms CreateObjectMapping: 0.154349 ms MarkObjects: 1.112816 ms  DeleteObjects: 0.031580 ms)
+Total: 1.393093 ms (FindLiveObjects: 0.282645 ms CreateObjectMapping: 0.102241 ms MarkObjects: 0.984520 ms  DeleteObjects: 0.022501 ms)
 
 The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
  
 (Filename:  Line: 1754)
 
 Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 4.159541 ms
+UnloadTime: 3.403584 ms
 
 Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 3300.
-Total: 1.697054 ms (FindLiveObjects: 0.387650 ms CreateObjectMapping: 0.152770 ms MarkObjects: 1.123869 ms  DeleteObjects: 0.031185 ms)
+Total: 1.935882 ms (FindLiveObjects: 0.414493 ms CreateObjectMapping: 0.154349 ms MarkObjects: 1.333879 ms  DeleteObjects: 0.030790 ms)
 
 The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
  
 (Filename:  Line: 1754)
 
 Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 3.500299 ms
+UnloadTime: 3.832288 ms
 
 Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 3300.
-Total: 1.659553 ms (FindLiveObjects: 0.374623 ms CreateObjectMapping: 0.152375 ms MarkObjects: 1.099789 ms  DeleteObjects: 0.031185 ms)
+Total: 1.941014 ms (FindLiveObjects: 0.399492 ms CreateObjectMapping: 0.154349 ms MarkObjects: 1.354406 ms  DeleteObjects: 0.031975 ms)
 
 The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
  
 (Filename:  Line: 1754)
 
 Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 3.640437 ms
+UnloadTime: 3.802682 ms
 
 Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 3300.
-Total: 1.202426 ms (FindLiveObjects: 0.277513 ms CreateObjectMapping: 0.101452 ms MarkObjects: 0.800959 ms  DeleteObjects: 0.021316 ms)
+Total: 1.926408 ms (FindLiveObjects: 0.395940 ms CreateObjectMapping: 0.152375 ms MarkObjects: 1.341380 ms  DeleteObjects: 0.034738 ms)
 
 The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
  
 (Filename:  Line: 1754)
 
 Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 3.621094 ms
+UnloadTime: 3.471087 ms
 
 Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 3300.
-Total: 1.730609 ms (FindLiveObjects: 0.388834 ms CreateObjectMapping: 0.153954 ms MarkObjects: 1.155055 ms  DeleteObjects: 0.030790 ms)
+Total: 1.898380 ms (FindLiveObjects: 0.398703 ms CreateObjectMapping: 0.151586 ms MarkObjects: 1.314931 ms  DeleteObjects: 0.031185 ms)
 
 The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
  
 (Filename:  Line: 1754)
 
 Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 3.359371 ms
+UnloadTime: 3.750179 ms
 
 Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 3300.
-Total: 1.719161 ms (FindLiveObjects: 0.383702 ms CreateObjectMapping: 0.153165 ms MarkObjects: 1.148739 ms  DeleteObjects: 0.030790 ms)
+Total: 1.956804 ms (FindLiveObjects: 0.401071 ms CreateObjectMapping: 0.153165 ms MarkObjects: 1.369802 ms  DeleteObjects: 0.030790 ms)
 
 The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
  
 (Filename:  Line: 1754)
 
 Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 3.403189 ms
+UnloadTime: 3.827946 ms
 
 Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 3300.
-Total: 1.732188 ms (FindLiveObjects: 0.387650 ms CreateObjectMapping: 0.153165 ms MarkObjects: 1.159397 ms  DeleteObjects: 0.031185 ms)
+Total: 1.937855 ms (FindLiveObjects: 0.399492 ms CreateObjectMapping: 0.153954 ms MarkObjects: 1.352038 ms  DeleteObjects: 0.031580 ms)
 
 The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
  
 (Filename:  Line: 1754)
 
 Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 3.468324 ms
+UnloadTime: 3.661359 ms
 
 Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 3300.
-Total: 1.776006 ms (FindLiveObjects: 0.388834 ms CreateObjectMapping: 0.168165 ms MarkObjects: 1.186635 ms  DeleteObjects: 0.031185 ms)
+Total: 1.981673 ms (FindLiveObjects: 0.399887 ms CreateObjectMapping: 0.154349 ms MarkObjects: 1.380066 ms  DeleteObjects: 0.045002 ms)
 
 The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
  
 (Filename:  Line: 1754)
 
 Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 3.419769 ms
+UnloadTime: 3.426479 ms
 
 Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 3300.
-Total: 1.235190 ms (FindLiveObjects: 0.165007 ms CreateObjectMapping: 0.059213 ms MarkObjects: 0.983731 ms  DeleteObjects: 0.026053 ms)
+Total: 1.959962 ms (FindLiveObjects: 0.400677 ms CreateObjectMapping: 0.153165 ms MarkObjects: 1.372170 ms  DeleteObjects: 0.032369 ms)
 
 The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
  
 (Filename:  Line: 1754)
 
 Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 3.640437 ms
+UnloadTime: 3.583197 ms
 
 Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 3300.
-Total: 1.235980 ms (FindLiveObjects: 0.279881 ms CreateObjectMapping: 0.102636 ms MarkObjects: 0.832539 ms  DeleteObjects: 0.020527 ms)
+Total: 1.992332 ms (FindLiveObjects: 0.377781 ms CreateObjectMapping: 0.153954 ms MarkObjects: 1.402567 ms  DeleteObjects: 0.056055 ms)
 
 The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
  
 (Filename:  Line: 1754)
 
 Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 2.751447 ms
+UnloadTime: 3.439112 ms
 
 Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 3300.
-Total: 1.617709 ms (FindLiveObjects: 0.418835 ms CreateObjectMapping: 0.106584 ms MarkObjects: 1.064656 ms  DeleteObjects: 0.025264 ms)
+Total: 2.043255 ms (FindLiveObjects: 0.398703 ms CreateObjectMapping: 0.154744 ms MarkObjects: 1.455859 ms  DeleteObjects: 0.032369 ms)
 
 The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
  
 (Filename:  Line: 1754)
 
 Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 2.616441 ms
+UnloadTime: 3.608857 ms
 
 Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 3300.
-Total: 1.222558 ms (FindLiveObjects: 0.270012 ms CreateObjectMapping: 0.102636 ms MarkObjects: 0.827013 ms  DeleteObjects: 0.021711 ms)
+Total: 2.029439 ms (FindLiveObjects: 0.393571 ms CreateObjectMapping: 0.151980 ms MarkObjects: 1.449937 ms  DeleteObjects: 0.032764 ms)
 
 The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
  
 (Filename:  Line: 1754)
 
 Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 3.601356 ms
+UnloadTime: 3.951505 ms
 
 Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 3300.
-Total: 1.855746 ms (FindLiveObjects: 0.389229 ms CreateObjectMapping: 0.180403 ms MarkObjects: 1.254139 ms  DeleteObjects: 0.030790 ms)
+Total: 1.978910 ms (FindLiveObjects: 0.396334 ms CreateObjectMapping: 0.152770 ms MarkObjects: 1.396645 ms  DeleteObjects: 0.030790 ms)
 
 The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
  
 (Filename:  Line: 1754)
 
 Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 3.287920 ms
+UnloadTime: 5.044978 ms
 
 Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 3300.
-Total: 1.115579 ms (FindLiveObjects: 0.248696 ms CreateObjectMapping: 0.088820 ms MarkObjects: 0.758720 ms  DeleteObjects: 0.018553 ms)
-
-The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
- 
-(Filename:  Line: 1754)
-
-Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 1.466517 ms
-
-Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 3300.
-Total: 1.136896 ms (FindLiveObjects: 0.466206 ms CreateObjectMapping: 0.120400 ms MarkObjects: 0.536473 ms  DeleteObjects: 0.012237 ms)
-
-The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
- 
-(Filename:  Line: 1754)
-
-Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 2.942509 ms
-
-Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 3300.
-Total: 0.798196 ms (FindLiveObjects: 0.169744 ms CreateObjectMapping: 0.060397 ms MarkObjects: 0.555026 ms  DeleteObjects: 0.012237 ms)
-
-The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
- 
-(Filename:  Line: 1754)
-
-Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 2.637757 ms
-
-Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 3300.
-Total: 0.680164 ms (FindLiveObjects: 0.159086 ms CreateObjectMapping: 0.048160 ms MarkObjects: 0.461074 ms  DeleteObjects: 0.011053 ms)
-
-The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
- 
-(Filename:  Line: 1754)
-
-Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 3.552012 ms
-
-Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 3300.
-Total: 1.790217 ms (FindLiveObjects: 0.391597 ms CreateObjectMapping: 0.153954 ms MarkObjects: 1.213084 ms  DeleteObjects: 0.030396 ms)
-
-The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
- 
-(Filename:  Line: 1754)
-
-Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 1.780348 ms
-
-Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 3300.
-Total: 0.776089 ms (FindLiveObjects: 0.157112 ms CreateObjectMapping: 0.060397 ms MarkObjects: 0.546341 ms  DeleteObjects: 0.011842 ms)
-
-The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
- 
-(Filename:  Line: 1754)
-
-Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 13.486435 ms
-
-Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 3300.
-Total: 1.130975 ms (FindLiveObjects: 0.245932 ms CreateObjectMapping: 0.088425 ms MarkObjects: 0.777668 ms  DeleteObjects: 0.018158 ms)
-
-The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
- 
-(Filename:  Line: 1754)
-
-Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 3.020276 ms
-
-Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 3300.
-Total: 1.625604 ms (FindLiveObjects: 0.338305 ms CreateObjectMapping: 0.135795 ms MarkObjects: 1.122290 ms  DeleteObjects: 0.027632 ms)
-
-The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
- 
-(Filename:  Line: 1754)
-
-Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 2.337743 ms
-
-Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 3300.
-Total: 1.297562 ms (FindLiveObjects: 0.278697 ms CreateObjectMapping: 0.101057 ms MarkObjects: 0.894516 ms  DeleteObjects: 0.021316 ms)
+Total: 2.033386 ms (FindLiveObjects: 0.399887 ms CreateObjectMapping: 0.166981 ms MarkObjects: 1.432173 ms  DeleteObjects: 0.032764 ms)
 
 The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
  
@@ -320,217 +405,47 @@ Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
 UnloadTime: 3.590698 ms
 
 Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 3300.
-Total: 1.866010 ms (FindLiveObjects: 0.388439 ms CreateObjectMapping: 0.151586 ms MarkObjects: 1.292035 ms  DeleteObjects: 0.032369 ms)
+Total: 1.241112 ms (FindLiveObjects: 0.252643 ms CreateObjectMapping: 0.087635 ms MarkObjects: 0.881489 ms  DeleteObjects: 0.018158 ms)
 
 The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
  
 (Filename:  Line: 1754)
 
 Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 3.485693 ms
+UnloadTime: 3.837815 ms
 
 Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 3300.
-Total: 1.147160 ms (FindLiveObjects: 0.248301 ms CreateObjectMapping: 0.087241 ms MarkObjects: 0.791485 ms  DeleteObjects: 0.019343 ms)
+Total: 2.066546 ms (FindLiveObjects: 0.402256 ms CreateObjectMapping: 0.153954 ms MarkObjects: 1.476386 ms  DeleteObjects: 0.032764 ms)
 
 The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
  
 (Filename:  Line: 1754)
 
 Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 2.026281 ms
+UnloadTime: 3.438717 ms
 
 Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 3300.
-Total: 1.189004 ms (FindLiveObjects: 0.260144 ms CreateObjectMapping: 0.089214 ms MarkObjects: 0.819907 ms  DeleteObjects: 0.018553 ms)
+Total: 2.040492 ms (FindLiveObjects: 0.399887 ms CreateObjectMapping: 0.152770 ms MarkObjects: 1.455464 ms  DeleteObjects: 0.030790 ms)
 
 The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
  
 (Filename:  Line: 1754)
 
 Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 3.884396 ms
+UnloadTime: 3.650306 ms
 
 Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 3300.
-Total: 2.077599 ms (FindLiveObjects: 0.394755 ms CreateObjectMapping: 0.163823 ms MarkObjects: 1.483097 ms  DeleteObjects: 0.033554 ms)
+Total: 2.147866 ms (FindLiveObjects: 0.385676 ms CreateObjectMapping: 0.154744 ms MarkObjects: 1.574680 ms  DeleteObjects: 0.031580 ms)
 
 The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
  
 (Filename:  Line: 1754)
 
 Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 3.663728 ms
+UnloadTime: 3.458455 ms
 
 Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 3300.
-Total: 1.975357 ms (FindLiveObjects: 0.402256 ms CreateObjectMapping: 0.153954 ms MarkObjects: 1.354801 ms  DeleteObjects: 0.063160 ms)
-
-The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
- 
-(Filename:  Line: 1754)
-
-Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 3.462402 ms
-
-Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 3300.
-Total: 1.932724 ms (FindLiveObjects: 0.402256 ms CreateObjectMapping: 0.153954 ms MarkObjects: 1.343353 ms  DeleteObjects: 0.031975 ms)
-
-The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
- 
-(Filename:  Line: 1754)
-
-Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 1.913775 ms
-
-Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 3300.
-Total: 2.072862 ms (FindLiveObjects: 0.289355 ms CreateObjectMapping: 0.104215 ms MarkObjects: 1.644157 ms  DeleteObjects: 0.033948 ms)
-
-The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
- 
-(Filename:  Line: 1754)
-
-Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 3.424111 ms
-
-Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 3300.
-Total: 1.397040 ms (FindLiveObjects: 0.286197 ms CreateObjectMapping: 0.111321 ms MarkObjects: 0.975441 ms  DeleteObjects: 0.022895 ms)
-
-The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
- 
-(Filename:  Line: 1754)
-
-Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 3.438322 ms
-
-Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 3300.
-Total: 1.901538 ms (FindLiveObjects: 0.399887 ms CreateObjectMapping: 0.155139 ms MarkObjects: 1.313747 ms  DeleteObjects: 0.031185 ms)
-
-The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
- 
-(Filename:  Line: 1754)
-
-Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 4.838915 ms
-
-Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 3300.
-Total: 1.939040 ms (FindLiveObjects: 0.393571 ms CreateObjectMapping: 0.153165 ms MarkObjects: 1.359933 ms  DeleteObjects: 0.030790 ms)
-
-The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
- 
-(Filename:  Line: 1754)
-
-Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 3.455297 ms
-
-Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 3300.
-Total: 1.976147 ms (FindLiveObjects: 0.396729 ms CreateObjectMapping: 0.153954 ms MarkObjects: 1.392303 ms  DeleteObjects: 0.031975 ms)
-
-The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
- 
-(Filename:  Line: 1754)
-
-Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 3.989796 ms
-
-Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 3300.
-Total: 1.982858 ms (FindLiveObjects: 0.465811 ms CreateObjectMapping: 0.154349 ms MarkObjects: 1.330721 ms  DeleteObjects: 0.030396 ms)
-
-The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
- 
-(Filename:  Line: 1754)
-
-Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 3.344765 ms
-
-Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 3300.
-Total: 1.979700 ms (FindLiveObjects: 0.401466 ms CreateObjectMapping: 0.166192 ms MarkObjects: 1.378881 ms  DeleteObjects: 0.030790 ms)
-
-The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
- 
-(Filename:  Line: 1754)
-
-Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 4.569692 ms
-
-Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 3300.
-Total: 1.199267 ms (FindLiveObjects: 0.250669 ms CreateObjectMapping: 0.088425 ms MarkObjects: 0.840040 ms  DeleteObjects: 0.018948 ms)
-
-The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
- 
-(Filename:  Line: 1754)
-
-Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 3.949926 ms
-
-Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 3300.
-Total: 1.739293 ms (FindLiveObjects: 0.335937 ms CreateObjectMapping: 0.155139 ms MarkObjects: 1.224532 ms  DeleteObjects: 0.022895 ms)
-
-The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
- 
-(Filename:  Line: 1754)
-
-Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 2.839872 ms
-
-Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 3300.
-Total: 1.365854 ms (FindLiveObjects: 0.281855 ms CreateObjectMapping: 0.101846 ms MarkObjects: 0.959651 ms  DeleteObjects: 0.021711 ms)
-
-The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
- 
-(Filename:  Line: 1754)
-
-Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 2.331822 ms
-
-Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 3300.
-Total: 1.981279 ms (FindLiveObjects: 0.300803 ms CreateObjectMapping: 0.111715 ms MarkObjects: 1.530468 ms  DeleteObjects: 0.037107 ms)
-
-The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
- 
-(Filename:  Line: 1754)
-
-Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 3.366871 ms
-
-Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 3300.
-Total: 1.965094 ms (FindLiveObjects: 0.391597 ms CreateObjectMapping: 0.151980 ms MarkObjects: 1.388355 ms  DeleteObjects: 0.031975 ms)
-
-The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
- 
-(Filename:  Line: 1754)
-
-Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 4.308364 ms
-
-Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 3300.
-Total: 2.077204 ms (FindLiveObjects: 0.394755 ms CreateObjectMapping: 0.152770 ms MarkObjects: 1.496519 ms  DeleteObjects: 0.031580 ms)
-
-The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
- 
-(Filename:  Line: 1754)
-
-Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 3.744653 ms
-
-Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 3300.
-Total: 1.989963 ms (FindLiveObjects: 0.392781 ms CreateObjectMapping: 0.153559 ms MarkObjects: 1.410462 ms  DeleteObjects: 0.031580 ms)
-
-The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
- 
-(Filename:  Line: 1754)
-
-Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 4.253098 ms
-
-Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 3300.
-Total: 2.013649 ms (FindLiveObjects: 0.393176 ms CreateObjectMapping: 0.154744 ms MarkObjects: 1.433752 ms  DeleteObjects: 0.030396 ms)
-
-The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
- 
-(Filename:  Line: 1754)
-
-Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 3.477008 ms
-
-Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 3300.
-Total: 2.112338 ms (FindLiveObjects: 0.390413 ms CreateObjectMapping: 0.178034 ms MarkObjects: 1.511125 ms  DeleteObjects: 0.031185 ms)
+Total: 2.044045 ms (FindLiveObjects: 0.402256 ms CreateObjectMapping: 0.153165 ms MarkObjects: 1.455069 ms  DeleteObjects: 0.031975 ms)
 
 The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
  
@@ -540,113 +455,983 @@ Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
 UnloadTime: 3.840578 ms
 
 Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 3300.
-Total: 2.002595 ms (FindLiveObjects: 0.392387 ms CreateObjectMapping: 0.153954 ms MarkObjects: 1.424278 ms  DeleteObjects: 0.030396 ms)
+Total: 1.256902 ms (FindLiveObjects: 0.255801 ms CreateObjectMapping: 0.088820 ms MarkObjects: 0.891358 ms  DeleteObjects: 0.020132 ms)
 
 The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
  
 (Filename:  Line: 1754)
 
 Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 3.334896 ms
+UnloadTime: 3.619910 ms
 
 Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 3300.
-Total: 2.151813 ms (FindLiveObjects: 0.406993 ms CreateObjectMapping: 0.154349 ms MarkObjects: 1.556916 ms  DeleteObjects: 0.032369 ms)
+Total: 2.042466 ms (FindLiveObjects: 0.398308 ms CreateObjectMapping: 0.154744 ms MarkObjects: 1.457438 ms  DeleteObjects: 0.030790 ms)
+
+The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.491219 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 3300.
+Total: 2.034571 ms (FindLiveObjects: 0.393571 ms CreateObjectMapping: 0.152770 ms MarkObjects: 1.456253 ms  DeleteObjects: 0.030790 ms)
+
+The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.507799 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 3300.
+Total: 2.042861 ms (FindLiveObjects: 0.401861 ms CreateObjectMapping: 0.154744 ms MarkObjects: 1.453885 ms  DeleteObjects: 0.031185 ms)
+
+The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.649516 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 3300.
+Total: 2.051940 ms (FindLiveObjects: 0.399098 ms CreateObjectMapping: 0.154744 ms MarkObjects: 1.464543 ms  DeleteObjects: 0.032764 ms)
+
+The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.456876 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 3300.
+Total: 2.067335 ms (FindLiveObjects: 0.399492 ms CreateObjectMapping: 0.151191 ms MarkObjects: 1.482307 ms  DeleteObjects: 0.032369 ms)
+
+The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.687413 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 3300.
+Total: 2.084310 ms (FindLiveObjects: 0.401466 ms CreateObjectMapping: 0.151586 ms MarkObjects: 1.499282 ms  DeleteObjects: 0.030790 ms)
+
+The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.646753 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 3300.
+Total: 2.089836 ms (FindLiveObjects: 0.400282 ms CreateObjectMapping: 0.153559 ms MarkObjects: 1.504414 ms  DeleteObjects: 0.030396 ms)
+
+The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.785312 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 3300.
+Total: 2.072862 ms (FindLiveObjects: 0.397913 ms CreateObjectMapping: 0.153954 ms MarkObjects: 1.489018 ms  DeleteObjects: 0.030790 ms)
+
+The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.430427 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 3300.
+Total: 2.104048 ms (FindLiveObjects: 0.411730 ms CreateObjectMapping: 0.153165 ms MarkObjects: 1.506782 ms  DeleteObjects: 0.031185 ms)
+
+The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.448191 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 3300.
+Total: 2.298267 ms (FindLiveObjects: 0.394360 ms CreateObjectMapping: 0.152770 ms MarkObjects: 1.718766 ms  DeleteObjects: 0.031185 ms)
+
+The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.445822 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 3300.
+Total: 2.128522 ms (FindLiveObjects: 0.395940 ms CreateObjectMapping: 0.151586 ms MarkObjects: 1.548232 ms  DeleteObjects: 0.031185 ms)
+
+The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.841368 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 3300.
+Total: 1.477176 ms (FindLiveObjects: 0.284618 ms CreateObjectMapping: 0.101452 ms MarkObjects: 1.068603 ms  DeleteObjects: 0.021711 ms)
+
+The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.062826 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 3300.
+Total: 2.136812 ms (FindLiveObjects: 0.402650 ms CreateObjectMapping: 0.156323 ms MarkObjects: 1.543494 ms  DeleteObjects: 0.031975 ms)
+
+The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.866632 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 3300.
+Total: 2.097732 ms (FindLiveObjects: 0.399098 ms CreateObjectMapping: 0.152375 ms MarkObjects: 1.513888 ms  DeleteObjects: 0.031185 ms)
+
+The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.511352 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 3300.
+Total: 2.148260 ms (FindLiveObjects: 0.399098 ms CreateObjectMapping: 0.155533 ms MarkObjects: 1.560469 ms  DeleteObjects: 0.031580 ms)
+
+The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.983480 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 3300.
+Total: 2.155761 ms (FindLiveObjects: 0.398703 ms CreateObjectMapping: 0.153954 ms MarkObjects: 1.571127 ms  DeleteObjects: 0.031185 ms)
+
+The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.529116 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 3300.
+Total: 2.150629 ms (FindLiveObjects: 0.397519 ms CreateObjectMapping: 0.152770 ms MarkObjects: 1.568759 ms  DeleteObjects: 0.030790 ms)
+
+The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.942425 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 3300.
+Total: 2.151813 ms (FindLiveObjects: 0.398308 ms CreateObjectMapping: 0.154349 ms MarkObjects: 1.565601 ms  DeleteObjects: 0.031580 ms)
+
+The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.803471 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 3300.
+Total: 2.179841 ms (FindLiveObjects: 0.400282 ms CreateObjectMapping: 0.153559 ms MarkObjects: 1.593628 ms  DeleteObjects: 0.031185 ms)
+
+The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.970058 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 3300.
+Total: 1.544284 ms (FindLiveObjects: 0.285013 ms CreateObjectMapping: 0.110926 ms MarkObjects: 1.124659 ms  DeleteObjects: 0.022106 ms)
+
+The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.486877 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 3300.
+Total: 2.170367 ms (FindLiveObjects: 0.396334 ms CreateObjectMapping: 0.152375 ms MarkObjects: 1.588102 ms  DeleteObjects: 0.031185 ms)
+
+The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.917950 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 3300.
+Total: 2.204316 ms (FindLiveObjects: 0.410151 ms CreateObjectMapping: 0.155533 ms MarkObjects: 1.604682 ms  DeleteObjects: 0.031580 ms)
+
+The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.419457 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 3300.
+Total: 1.545074 ms (FindLiveObjects: 0.284224 ms CreateObjectMapping: 0.103426 ms MarkObjects: 1.134922 ms  DeleteObjects: 0.020922 ms)
+
+The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.345554 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 3300.
+Total: 2.195631 ms (FindLiveObjects: 0.397913 ms CreateObjectMapping: 0.151980 ms MarkObjects: 1.612971 ms  DeleteObjects: 0.030790 ms)
+
+The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.071510 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 3300.
+Total: 2.186552 ms (FindLiveObjects: 0.416862 ms CreateObjectMapping: 0.151980 ms MarkObjects: 1.583760 ms  DeleteObjects: 0.031975 ms)
+
+The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.981901 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 3300.
+Total: 2.213395 ms (FindLiveObjects: 0.398308 ms CreateObjectMapping: 0.153165 ms MarkObjects: 1.628762 ms  DeleteObjects: 0.031975 ms)
+
+The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.184494 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 3300.
+Total: 1.605866 ms (FindLiveObjects: 0.332384 ms CreateObjectMapping: 0.135401 ms MarkObjects: 1.113605 ms  DeleteObjects: 0.022501 ms)
+
+The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.609251 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 3300.
+Total: 2.298662 ms (FindLiveObjects: 0.481996 ms CreateObjectMapping: 0.157112 ms MarkObjects: 1.625604 ms  DeleteObjects: 0.031975 ms)
+
+The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.727283 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 3300.
+Total: 2.244581 ms (FindLiveObjects: 0.399098 ms CreateObjectMapping: 0.151980 ms MarkObjects: 1.661132 ms  DeleteObjects: 0.030790 ms)
+
+The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.113354 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 3300.
+Total: 2.217343 ms (FindLiveObjects: 0.397913 ms CreateObjectMapping: 0.151586 ms MarkObjects: 1.635078 ms  DeleteObjects: 0.031580 ms)
+
+The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.799918 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 3300.
+Total: 2.261555 ms (FindLiveObjects: 0.403440 ms CreateObjectMapping: 0.154349 ms MarkObjects: 1.669816 ms  DeleteObjects: 0.031185 ms)
+
+The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.591093 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 3300.
+Total: 2.252871 ms (FindLiveObjects: 0.403835 ms CreateObjectMapping: 0.153954 ms MarkObjects: 1.661132 ms  DeleteObjects: 0.031975 ms)
+
+The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.638463 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 3300.
+Total: 2.232738 ms (FindLiveObjects: 0.402256 ms CreateObjectMapping: 0.153559 ms MarkObjects: 1.644552 ms  DeleteObjects: 0.030790 ms)
+
+The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.454112 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 3300.
+Total: 2.317611 ms (FindLiveObjects: 0.467390 ms CreateObjectMapping: 0.155139 ms MarkObjects: 1.662316 ms  DeleteObjects: 0.031580 ms)
+
+The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.722546 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 3300.
+Total: 2.274977 ms (FindLiveObjects: 0.405019 ms CreateObjectMapping: 0.154349 ms MarkObjects: 1.683238 ms  DeleteObjects: 0.031185 ms)
+
+The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.605304 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 3300.
+Total: 2.377613 ms (FindLiveObjects: 0.391597 ms CreateObjectMapping: 0.165797 ms MarkObjects: 1.788638 ms  DeleteObjects: 0.030396 ms)
+
+The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.534248 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 3300.
+Total: 2.264713 ms (FindLiveObjects: 0.396334 ms CreateObjectMapping: 0.153165 ms MarkObjects: 1.682843 ms  DeleteObjects: 0.030396 ms)
 
 Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 1.394277 ms
+UnloadTime: 3.411873 ms
 
 Unloading 208 unused Assets to reduce memory usage. Loaded Objects now: 466.
-Total: 1.481518 ms (FindLiveObjects: 0.027632 ms CreateObjectMapping: 0.038291 ms MarkObjects: 0.308304 ms  DeleteObjects: 1.107289 ms)
+Total: 5.703431 ms (FindLiveObjects: 0.077372 ms CreateObjectMapping: 0.105794 ms MarkObjects: 1.136896 ms  DeleteObjects: 4.381394 ms)
 
-Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 0.613055 ms
+The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
+ 
+(Filename:  Line: 1754)
 
-Unloading 119 unused Assets to reduce memory usage. Loaded Objects now: 4505.
-Total: 1.839561 ms (FindLiveObjects: 0.245932 ms CreateObjectMapping: 0.114479 ms MarkObjects: 0.722008 ms  DeleteObjects: 0.756352 ms)
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.653320 ms
 
-Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 5.493421 ms
+Unloading 119 unused Assets to reduce memory usage. Loaded Objects now: 3300.
+Total: 1.951277 ms (FindLiveObjects: 0.213168 ms CreateObjectMapping: 0.078556 ms MarkObjects: 0.820302 ms  DeleteObjects: 0.838855 ms)
 
-Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 4505.
-Total: 2.483408 ms (FindLiveObjects: 0.534894 ms CreateObjectMapping: 0.253038 ms MarkObjects: 1.657579 ms  DeleteObjects: 0.036712 ms)
+The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
+ 
+(Filename:  Line: 1754)
 
-Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 5.064716 ms
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.281604 ms
 
-Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 4505.
-Total: 2.498803 ms (FindLiveObjects: 0.534894 ms CreateObjectMapping: 0.254222 ms MarkObjects: 1.671395 ms  DeleteObjects: 0.036317 ms)
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 3300.
+Total: 2.340112 ms (FindLiveObjects: 0.393966 ms CreateObjectMapping: 0.151191 ms MarkObjects: 1.763373 ms  DeleteObjects: 0.030001 ms)
 
-Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 4.146514 ms
+The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
+ 
+(Filename:  Line: 1754)
 
-Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 4505.
-Total: 2.447880 ms (FindLiveObjects: 0.517130 ms CreateObjectMapping: 0.253827 ms MarkObjects: 1.638236 ms  DeleteObjects: 0.036317 ms)
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.397184 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 3300.
+Total: 2.318005 ms (FindLiveObjects: 0.399098 ms CreateObjectMapping: 0.151980 ms MarkObjects: 1.732582 ms  DeleteObjects: 0.032764 ms)
+
+The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.201074 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 3300.
+Total: 2.316426 ms (FindLiveObjects: 0.397913 ms CreateObjectMapping: 0.151980 ms MarkObjects: 1.735741 ms  DeleteObjects: 0.030001 ms)
+
+The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.381788 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 3300.
+Total: 2.475118 ms (FindLiveObjects: 0.394360 ms CreateObjectMapping: 0.151980 ms MarkObjects: 1.895222 ms  DeleteObjects: 0.030396 ms)
+
+The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.133882 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 3300.
+Total: 2.382745 ms (FindLiveObjects: 0.450021 ms CreateObjectMapping: 0.153559 ms MarkObjects: 1.745609 ms  DeleteObjects: 0.031580 ms)
 
 Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 2.295899 ms
+UnloadTime: 3.651095 ms
 
-Unloading 226 unused Assets to reduce memory usage. Loaded Objects now: 466.
-Total: 6.868750 ms (FindLiveObjects: 0.115663 ms CreateObjectMapping: 0.150401 ms MarkObjects: 0.919780 ms  DeleteObjects: 5.680140 ms)
-
-The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
- 
-(Filename:  Line: 1754)
-
-Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 1.250586 ms
-
-Unloading 119 unused Assets to reduce memory usage. Loaded Objects now: 1112.
-Total: 3.009223 ms (FindLiveObjects: 0.168955 ms CreateObjectMapping: 0.105794 ms MarkObjects: 1.139659 ms  DeleteObjects: 1.592839 ms)
+Unloading 208 unused Assets to reduce memory usage. Loaded Objects now: 466.
+Total: 4.880365 ms (FindLiveObjects: 0.078556 ms CreateObjectMapping: 0.099873 ms MarkObjects: 1.191767 ms  DeleteObjects: 3.508194 ms)
 
 The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
  
 (Filename:  Line: 1754)
 
-Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 2.014438 ms
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.866094 ms
 
-Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 1112.
-Total: 1.414015 ms (FindLiveObjects: 0.148428 ms CreateObjectMapping: 0.095136 ms MarkObjects: 1.146765 ms  DeleteObjects: 0.022501 ms)
+Unloading 119 unused Assets to reduce memory usage. Loaded Objects now: 3300.
+Total: 1.604287 ms (FindLiveObjects: 0.158691 ms CreateObjectMapping: 0.070266 ms MarkObjects: 0.757931 ms  DeleteObjects: 0.616608 ms)
+
+The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.668859 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 3300.
+Total: 2.351559 ms (FindLiveObjects: 0.398308 ms CreateObjectMapping: 0.155533 ms MarkObjects: 1.766137 ms  DeleteObjects: 0.030396 ms)
+
+The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.523589 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 3300.
+Total: 2.516567 ms (FindLiveObjects: 0.380149 ms CreateObjectMapping: 0.220668 ms MarkObjects: 1.881405 ms  DeleteObjects: 0.033554 ms)
+
+The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.522800 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 3300.
+Total: 2.357481 ms (FindLiveObjects: 0.389623 ms CreateObjectMapping: 0.153954 ms MarkObjects: 1.781137 ms  DeleteObjects: 0.031580 ms)
+
+The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.158357 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 3300.
+Total: 1.488229 ms (FindLiveObjects: 0.263696 ms CreateObjectMapping: 0.113689 ms MarkObjects: 1.091104 ms  DeleteObjects: 0.018158 ms)
+
+The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.536221 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 3300.
+Total: 2.403667 ms (FindLiveObjects: 0.387650 ms CreateObjectMapping: 0.153559 ms MarkObjects: 1.828113 ms  DeleteObjects: 0.031975 ms)
+
+The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.494377 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 3300.
+Total: 1.461780 ms (FindLiveObjects: 0.253827 ms CreateObjectMapping: 0.086846 ms MarkObjects: 1.101763 ms  DeleteObjects: 0.018948 ms)
+
+The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.435954 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 3300.
+Total: 2.379982 ms (FindLiveObjects: 0.388439 ms CreateObjectMapping: 0.153165 ms MarkObjects: 1.806007 ms  DeleteObjects: 0.030790 ms)
+
+The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.390951 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 3300.
+Total: 2.447090 ms (FindLiveObjects: 0.398703 ms CreateObjectMapping: 0.185140 ms MarkObjects: 1.829298 ms  DeleteObjects: 0.031580 ms)
+
+The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.447796 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 3300.
+Total: 2.421037 ms (FindLiveObjects: 0.397124 ms CreateObjectMapping: 0.152375 ms MarkObjects: 1.840746 ms  DeleteObjects: 0.030001 ms)
+
+The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.477319 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 3300.
+Total: 1.679290 ms (FindLiveObjects: 0.281460 ms CreateObjectMapping: 0.101452 ms MarkObjects: 1.274271 ms  DeleteObjects: 0.021316 ms)
+
+The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.717809 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 3300.
+Total: 2.439590 ms (FindLiveObjects: 0.399887 ms CreateObjectMapping: 0.154349 ms MarkObjects: 1.853772 ms  DeleteObjects: 0.030790 ms)
+
+The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.644779 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 3300.
+Total: 2.422221 ms (FindLiveObjects: 0.395545 ms CreateObjectMapping: 0.150796 ms MarkObjects: 1.843509 ms  DeleteObjects: 0.031580 ms)
+
+The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.361261 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 3300.
+Total: 2.581307 ms (FindLiveObjects: 0.518314 ms CreateObjectMapping: 0.153559 ms MarkObjects: 1.876274 ms  DeleteObjects: 0.031580 ms)
+
+The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.689387 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 3300.
+Total: 2.459723 ms (FindLiveObjects: 0.402256 ms CreateObjectMapping: 0.154349 ms MarkObjects: 1.871142 ms  DeleteObjects: 0.031185 ms)
+
+The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.808125 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 3300.
+Total: 2.407615 ms (FindLiveObjects: 0.389229 ms CreateObjectMapping: 0.151586 ms MarkObjects: 1.834429 ms  DeleteObjects: 0.031185 ms)
+
+The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.727678 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 3300.
+Total: 2.448669 ms (FindLiveObjects: 0.397913 ms CreateObjectMapping: 0.154349 ms MarkObjects: 1.864431 ms  DeleteObjects: 0.030396 ms)
+
+The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.428848 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 3300.
+Total: 2.479460 ms (FindLiveObjects: 0.397124 ms CreateObjectMapping: 0.154744 ms MarkObjects: 1.894827 ms  DeleteObjects: 0.031185 ms)
+
+The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.548854 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 3300.
+Total: 2.588413 ms (FindLiveObjects: 0.403045 ms CreateObjectMapping: 0.163034 ms MarkObjects: 1.987989 ms  DeleteObjects: 0.032369 ms)
+
+The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.544906 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 3300.
+Total: 1.568759 ms (FindLiveObjects: 0.250275 ms CreateObjectMapping: 0.088820 ms MarkObjects: 1.210715 ms  DeleteObjects: 0.017764 ms)
+
+The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.426085 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 3300.
+Total: 2.501961 ms (FindLiveObjects: 0.405414 ms CreateObjectMapping: 0.153165 ms MarkObjects: 1.911012 ms  DeleteObjects: 0.031185 ms)
+
+The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.532669 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 3300.
+Total: 2.453012 ms (FindLiveObjects: 0.516735 ms CreateObjectMapping: 0.154744 ms MarkObjects: 1.751531 ms  DeleteObjects: 0.027238 ms)
+
+The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.533458 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 3300.
+Total: 2.518541 ms (FindLiveObjects: 0.389623 ms CreateObjectMapping: 0.155928 ms MarkObjects: 1.941014 ms  DeleteObjects: 0.030790 ms)
+
+The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.201074 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 3300.
+Total: 2.613283 ms (FindLiveObjects: 0.487918 ms CreateObjectMapping: 0.156718 ms MarkObjects: 1.937066 ms  DeleteObjects: 0.030396 ms)
+
+The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.523984 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 3300.
+Total: 2.000227 ms (FindLiveObjects: 0.287382 ms CreateObjectMapping: 0.103820 ms MarkObjects: 1.583365 ms  DeleteObjects: 0.024474 ms)
+
+The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.561881 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 3300.
+Total: 2.526831 ms (FindLiveObjects: 0.403835 ms CreateObjectMapping: 0.153559 ms MarkObjects: 1.937461 ms  DeleteObjects: 0.031185 ms)
+
+The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.587540 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 3300.
+Total: 2.519725 ms (FindLiveObjects: 0.401861 ms CreateObjectMapping: 0.152770 ms MarkObjects: 1.933513 ms  DeleteObjects: 0.030001 ms)
+
+The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.006770 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 3300.
+Total: 2.530779 ms (FindLiveObjects: 0.405808 ms CreateObjectMapping: 0.152770 ms MarkObjects: 1.940619 ms  DeleteObjects: 0.030396 ms)
+
+The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.768338 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 3300.
+Total: 2.552095 ms (FindLiveObjects: 0.399098 ms CreateObjectMapping: 0.155533 ms MarkObjects: 1.965094 ms  DeleteObjects: 0.031185 ms)
+
+The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.495167 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 3300.
+Total: 2.552885 ms (FindLiveObjects: 0.398703 ms CreateObjectMapping: 0.153559 ms MarkObjects: 1.968252 ms  DeleteObjects: 0.031185 ms)
+
+The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.600567 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 3300.
+Total: 2.587623 ms (FindLiveObjects: 0.400677 ms CreateObjectMapping: 0.153954 ms MarkObjects: 1.998648 ms  DeleteObjects: 0.032369 ms)
+
+The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.398846 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 3300.
+Total: 2.595913 ms (FindLiveObjects: 0.399098 ms CreateObjectMapping: 0.151586 ms MarkObjects: 2.012464 ms  DeleteObjects: 0.031185 ms)
+
+The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.217259 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 3300.
+Total: 2.550516 ms (FindLiveObjects: 0.397124 ms CreateObjectMapping: 0.153165 ms MarkObjects: 1.968252 ms  DeleteObjects: 0.030396 ms)
+
+The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.452533 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 3300.
+Total: 2.576965 ms (FindLiveObjects: 0.399887 ms CreateObjectMapping: 0.152770 ms MarkObjects: 1.992727 ms  DeleteObjects: 0.029606 ms)
+
+The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.491219 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 3300.
+Total: 2.591966 ms (FindLiveObjects: 0.401071 ms CreateObjectMapping: 0.154349 ms MarkObjects: 2.004569 ms  DeleteObjects: 0.030790 ms)
+
+The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.754916 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 3300.
+Total: 2.568675 ms (FindLiveObjects: 0.395545 ms CreateObjectMapping: 0.152770 ms MarkObjects: 1.988384 ms  DeleteObjects: 0.030001 ms)
+
+The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.355029 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 3300.
+Total: 2.586044 ms (FindLiveObjects: 0.398308 ms CreateObjectMapping: 0.153559 ms MarkObjects: 2.002201 ms  DeleteObjects: 0.030396 ms)
+
+The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.768338 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 3300.
+Total: 1.863641 ms (FindLiveObjects: 0.289355 ms CreateObjectMapping: 0.109742 ms MarkObjects: 1.441253 ms  DeleteObjects: 0.022501 ms)
+
+The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.306079 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 3300.
+Total: 2.656706 ms (FindLiveObjects: 0.399492 ms CreateObjectMapping: 0.152770 ms MarkObjects: 2.072862 ms  DeleteObjects: 0.030396 ms)
+
+The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.605699 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 3300.
+Total: 2.624336 ms (FindLiveObjects: 0.405414 ms CreateObjectMapping: 0.152770 ms MarkObjects: 2.034571 ms  DeleteObjects: 0.030790 ms)
+
+The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.368761 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 3300.
+Total: 2.640915 ms (FindLiveObjects: 0.400677 ms CreateObjectMapping: 0.153954 ms MarkObjects: 2.053914 ms  DeleteObjects: 0.031185 ms)
+
+The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.806629 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 3300.
+Total: 2.669338 ms (FindLiveObjects: 0.394360 ms CreateObjectMapping: 0.153165 ms MarkObjects: 2.090626 ms  DeleteObjects: 0.030001 ms)
+
+The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.078616 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 3300.
+Total: 2.624336 ms (FindLiveObjects: 0.391992 ms CreateObjectMapping: 0.153559 ms MarkObjects: 2.046019 ms  DeleteObjects: 0.031580 ms)
+
+The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.478982 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 3300.
+Total: 2.627099 ms (FindLiveObjects: 0.396729 ms CreateObjectMapping: 0.153559 ms MarkObjects: 2.045624 ms  DeleteObjects: 0.030001 ms)
+
+The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.028877 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 3300.
+Total: 2.638942 ms (FindLiveObjects: 0.401861 ms CreateObjectMapping: 0.151191 ms MarkObjects: 2.053124 ms  DeleteObjects: 0.031580 ms)
+
+The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.253182 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 3300.
+Total: 2.690260 ms (FindLiveObjects: 0.399887 ms CreateObjectMapping: 0.153954 ms MarkObjects: 2.102863 ms  DeleteObjects: 0.031185 ms)
+
+The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.375161 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 3300.
+Total: 2.709998 ms (FindLiveObjects: 0.398308 ms CreateObjectMapping: 0.154744 ms MarkObjects: 2.124180 ms  DeleteObjects: 0.031975 ms)
+
+The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.042466 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 3300.
+Total: 1.615340 ms (FindLiveObjects: 0.245143 ms CreateObjectMapping: 0.088425 ms MarkObjects: 1.261244 ms  DeleteObjects: 0.018553 ms)
+
+The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.413058 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 3300.
+Total: 2.668548 ms (FindLiveObjects: 0.395150 ms CreateObjectMapping: 0.151980 ms MarkObjects: 2.087863 ms  DeleteObjects: 0.031580 ms)
+
+The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.703598 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 3300.
+Total: 2.694602 ms (FindLiveObjects: 0.404624 ms CreateObjectMapping: 0.153165 ms MarkObjects: 2.103653 ms  DeleteObjects: 0.032369 ms)
+
+The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.196732 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 3300.
+Total: 2.700918 ms (FindLiveObjects: 0.405414 ms CreateObjectMapping: 0.155139 ms MarkObjects: 2.109179 ms  DeleteObjects: 0.030396 ms)
+
+The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.353366 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 3300.
+Total: 2.685128 ms (FindLiveObjects: 0.404229 ms CreateObjectMapping: 0.151980 ms MarkObjects: 2.096942 ms  DeleteObjects: 0.030790 ms)
+
+The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.487667 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 3300.
+Total: 2.693418 ms (FindLiveObjects: 0.395940 ms CreateObjectMapping: 0.153165 ms MarkObjects: 2.113127 ms  DeleteObjects: 0.030001 ms)
 
 Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 0.625687 ms
+UnloadTime: 1.217426 ms
 
-Unloading 132 unused Assets to reduce memory usage. Loaded Objects now: 466.
-Total: 0.537262 ms (FindLiveObjects: 0.032369 ms CreateObjectMapping: 0.029211 ms MarkObjects: 0.334752 ms  DeleteObjects: 0.140533 ms)
-
-The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
- 
-(Filename:  Line: 1754)
-
-Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 0.731877 ms
-
-Unloading 119 unused Assets to reduce memory usage. Loaded Objects now: 1394.
-Total: 1.487439 ms (FindLiveObjects: 0.112505 ms CreateObjectMapping: 0.061187 ms MarkObjects: 0.738588 ms  DeleteObjects: 0.573974 ms)
-
-The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
- 
-(Filename:  Line: 1754)
-
-Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 3.087779 ms
-
-Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 1394.
-Total: 1.934303 ms (FindLiveObjects: 0.180008 ms CreateObjectMapping: 0.097109 ms MarkObjects: 1.606655 ms  DeleteObjects: 0.049344 ms)
-
-The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
- 
-(Filename:  Line: 1754)
-
-Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 2.792896 ms
-
-Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 1394.
-Total: 1.796533 ms (FindLiveObjects: 0.184350 ms CreateObjectMapping: 0.097109 ms MarkObjects: 1.474807 ms  DeleteObjects: 0.038686 ms)
-
-Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 2.096547 ms
-
-Unloading 134 unused Assets to reduce memory usage. Loaded Objects now: 466.
-Total: 1.787059 ms (FindLiveObjects: 0.071450 ms CreateObjectMapping: 0.093951 ms MarkObjects: 0.959651 ms  DeleteObjects: 0.661215 ms)
+Unloading 208 unused Assets to reduce memory usage. Loaded Objects now: 466.
+Total: 5.263278 ms (FindLiveObjects: 0.076977 ms CreateObjectMapping: 0.103426 ms MarkObjects: 1.559679 ms  DeleteObjects: 3.522010 ms)
 
