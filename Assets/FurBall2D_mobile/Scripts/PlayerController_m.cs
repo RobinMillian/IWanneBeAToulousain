@@ -4,8 +4,8 @@ using UnityEngine.SceneManagement;
 using UnityStandardAssets.CrossPlatformInput;
 
 public class PlayerController_m : MonoBehaviour {
-	
-	public float maxSpeed = 6f;
+
+    public float maxSpeed = 4f;
 	public float jumpForce = 1000f;
 	public Transform groundCheck;
 	public LayerMask whatIsGround;
@@ -21,13 +21,18 @@ public class PlayerController_m : MonoBehaviour {
 	private bool isGrounded = false;
     private bool can = true;
     private float speed_player = 0;
+    private static int recordScoreCar = 0;
+    private static int recordScoreJD = 0;
+    private static int recordScoreEsq = 0;
 
-	void Start () {
+    void Start () {
 		rb2d = GetComponent<Rigidbody2D>();
 		anim = GetComponent<Animator>();
 		Cloud = GameObject.Find("Cloud");
-	}
 
+        
+	}
+    
     private void OnTriggerEnter2D(Collider2D other)
     {
         if (other.tag == "KillZone")
@@ -54,7 +59,7 @@ public class PlayerController_m : MonoBehaviour {
         {
             SceneManager.LoadScene(SceneManager.GetSceneAt(0).name);
         }
-        if (CrossPlatformInputManager.GetButtonDown("Cancel"))
+        if (CrossPlatformInputManager.GetButtonDown("Cancel") || Input.GetKey(KeyCode.Escape))
         {
             SceneManager.LoadScene("MainMenu", LoadSceneMode.Single);
         }
@@ -108,9 +113,7 @@ public class PlayerController_m : MonoBehaviour {
 		 
 		anim.SetFloat ("vSpeed", GetComponent<Rigidbody2D>().velocity.y);
 	}
-
-
-	
+    
 	public void Flip()
 	{
 		lookingRight = !lookingRight;
@@ -119,4 +122,23 @@ public class PlayerController_m : MonoBehaviour {
 		transform.localScale = myScale;
 	}
 
+    public void setRecord(int record, string name)
+    {
+        if (name == "CARMES")
+            recordScoreCar = record;
+        else if (name == "ESQUIROL")
+            recordScoreEsq = record;
+        else
+            recordScoreJD = record;
+    }
+
+    public int getRecord(string name)
+    {
+        if (name == "CARMES")
+            return recordScoreCar;
+        else if (name == "ESQUIROL")
+            return recordScoreEsq;
+        else
+            return recordScoreJD;
+    }
 }

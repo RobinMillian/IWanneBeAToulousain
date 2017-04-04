@@ -11,6 +11,7 @@ public class CoinsController : MonoBehaviour {
     private bool colEnter = false;
     private AudioSource source;
     private int currentCoin = 0;
+    public PlayerController_m player;
     // Use this for initialization
     void Start () {
         source = GetComponent<AudioSource>();

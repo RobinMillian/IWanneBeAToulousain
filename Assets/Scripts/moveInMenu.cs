@@ -26,9 +26,14 @@ public class moveInMenu : MonoBehaviour {
 
     // Update is called once per frame
     void Update() {
+        if (Input.GetKey(KeyCode.Escape))
+        {
+            Application.Quit();
+        }
+
         if (goLetsGo == 5f)
         {
-            if (CrossPlatformInputManager.GetAxisRaw("Horizontal") > 0 && canMove)
+            if (Input.GetButtonDown("Horizontal") && CrossPlatformInputManager.GetAxisRaw("Horizontal") > 0 && canMove)
             {
                 source.Stop();
                 _currentIndex += 1;
@@ -40,7 +45,7 @@ public class moveInMenu : MonoBehaviour {
                 cursor.SetActive(false);
                 canMove = false;
             }
-            else if (CrossPlatformInputManager.GetAxisRaw("Horizontal") < 0 && canMove)
+            else if (Input.GetButtonDown("Horizontal") && CrossPlatformInputManager.GetAxisRaw("Horizontal") < 0 && canMove)
             {
                 source.Stop();
                 _currentIndex -= 1;
@@ -55,10 +60,10 @@ public class moveInMenu : MonoBehaviour {
         }
         if (Input.GetButtonDown("Submit") || goLetsGo != 5f)
         {
-            if (goLetsGo == 5f)
+            if (goLetsGo == 5f && _currentIndex != 0)
                 SceneManager.LoadScene("SceneLoader", LoadSceneMode.Additive);
             goLetsGo -= Time.deltaTime;
-            if (goLetsGo < 0)
+            if (goLetsGo < 0 || _currentIndex == 0)
                 SceneManager.LoadScene(scenePaths[_currentIndex], LoadSceneMode.Single);
         }
         if (goLetsGo == 5)

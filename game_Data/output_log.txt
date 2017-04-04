@@ -1,0 +1,61 @@
+Initialize engine version: 5.5.1f1 (88d00a7498cd)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon R7 M260X (ID=0x6605)
+    Vendor:   ATI
+    VRAM:     1003 MB
+    Driver:   10.18.15.4268
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Pinche\Documents\GitHub\IWanneBeAToulousain\game_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Pinche\Documents\GitHub\IWanneBeAToulousain\game_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Pinche\Documents\GitHub\IWanneBeAToulousain\game_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Pinche\Documents\GitHub\IWanneBeAToulousain\game_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Pinche\Documents\GitHub\IWanneBeAToulousain\game_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Pinche\Documents\GitHub\IWanneBeAToulousain\game_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Pinche\Documents\GitHub\IWanneBeAToulousain\game_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Pinche\Documents\GitHub\IWanneBeAToulousain\game_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Pinche\Documents\GitHub\IWanneBeAToulousain\game_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Pinche\Documents\GitHub\IWanneBeAToulousain\game_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Pinche\Documents\GitHub\IWanneBeAToulousain\game_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\Pinche\Documents\GitHub\IWanneBeAToulousain\game_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.028 seconds
+Platform assembly: C:\Users\Pinche\Documents\GitHub\IWanneBeAToulousain\game_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Pinche\Documents\GitHub\IWanneBeAToulousain\game_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.176380 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 3d14 -> priority: 1 
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.345818 ms
+
+Unloading 123 unused Assets to reduce memory usage. Loaded Objects now: 11827.
+Total: 2.576193 ms (FindLiveObjects: 0.806491 ms CreateObjectMapping: 0.146850 ms MarkObjects: 0.882285 ms  DeleteObjects: 0.739777 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 25.577976 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 11829.
+Total: 1.381654 ms (FindLiveObjects: 0.494237 ms CreateObjectMapping: 0.150008 ms MarkObjects: 0.712144 ms  DeleteObjects: 0.024475 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 26.046158 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 11829.
+Total: 1.537978 ms (FindLiveObjects: 0.670299 ms CreateObjectMapping: 0.127112 ms MarkObjects: 0.716486 ms  DeleteObjects: 0.023685 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 28.033768 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 11829.
+Total: 1.952869 ms (FindLiveObjects: 0.689248 ms CreateObjectMapping: 0.200537 ms MarkObjects: 1.034267 ms  DeleteObjects: 0.028027 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 26.425917 ms
+
+Unloading 246 unused Assets to reduce memory usage. Loaded Objects now: 455.
+Total: 6.030724 ms (FindLiveObjects: 0.050923 ms CreateObjectMapping: 0.043818 ms MarkObjects: 0.181983 ms  DeleteObjects: 5.753208 ms)
+
